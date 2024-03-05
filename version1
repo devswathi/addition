@@ -1,0 +1,10 @@
+# Calculating the sum of two numbers
+
+num1 = 5 # First number
+num2 = 10 # Second number
+
+# Adding the two numbers
+sum = num1 + num2
+
+# Printing the result
+print("The sum of", num1, "and", num2, "is", sum)
